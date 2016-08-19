@@ -1,5 +1,6 @@
 # Tree Exercise
 
+```
 This is a exercise in creating a tree.
 
 Assignment:
@@ -23,6 +24,7 @@ We want to be able to transverse the trees using different transversal algorithm
 Assignment
 Build a simple yet flexible framework for walking the tree in an arbitrary manner, and if an arbitrary condition holds on the Objects visited, performs an arbitrary action on that Object.
 Using your framework show how, given an Object startNode in a Tree, you can build a Collection of all descendents of startNode that are of Type String.
-Using your framework show how, given an Object startNode in a Tree, you can concatenate the toString() results of all ancestors of startNode.  
+Using your framework show how, given an Object startNode in a Tree, you can concatenate the toString() results of all ancestors of startNode.
+```  
 
 
